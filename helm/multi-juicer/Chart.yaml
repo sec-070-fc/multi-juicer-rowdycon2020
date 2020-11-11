@@ -3,9 +3,9 @@ name: multi-juicer
 description: Run Multi User "Capture the Flags" or Security Trainings with OWASP Juice Shop
 icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
 
-home: https://github.com/iteratec/multi-juicer
+home: https://github.com/sec-070-fc/multi-juicer-rowdycon2020
 sources:
-  - https://github.com/iteratec/multi-juicer
+  - https://github.com/sec-070-fc/multi-juicer-rowdycon2020
 
 keywords:
   - security
